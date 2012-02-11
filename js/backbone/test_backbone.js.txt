@@ -1,0 +1,10 @@
+How to use?
+===========
+
+
+You can import ``backbone`` from ``js.backbone`` and ``need`` it where you want
+these resources to be included on a page::
+
+  >>> from js.backbone import backbone
+  >>> backbone.need()
+
