@@ -1,7 +1,12 @@
 CHANGES
 *******
 
+0.9.10
+======
+
+- Updated backbone to 0.9.10 
+
 0.9.1
 =====
 
--   Initial release.(version number is backbone.js's one)
+- Initial release.(version number is backbone.js's one)
